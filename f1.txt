@@ -4,12 +4,8 @@
 main
 m1
 
----genvii 23412341
----gnevnii
-sdfa sdf
-asd f
-as d
-fsa
-df
-sa
-dfsa
+---genvii kad1
+---gnevnii kad1
+sdfa sdf kad1
+asd f kad1
+as d kad1
