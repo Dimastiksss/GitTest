@@ -4,12 +4,6 @@
 main
 m1
 
----genvii 23412341
 ---gnevnii
-sdfa sdf
-asd f
-as d
-fsa
-df
-sa
-dfsa
+---gnevnii2
+---gnevnii3
