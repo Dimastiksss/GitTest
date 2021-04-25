@@ -4,10 +4,7 @@
 main
 m1
 
----genvii kad2
----gnevnii kad2
----gnevnii2 kad2
----gnevnii3 kad2
----gnevnii4
-sex
-11111
+---gnevnii
+---gnevnii2
+---gnevnii3
+---gnevnii5
