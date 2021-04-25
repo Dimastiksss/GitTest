@@ -1,10 +1,7 @@
-0
-1
-2
-main
-m1
 
 ---gnevnii
----gnevnii2
+---gnevnii1
 ---gnevnii3
 ---gnevnii5
+
+kad3
