@@ -4,6 +4,7 @@
 main
 m1
 
----gnevnii
+---genvii kad1
+---gnevnii kad1
 ---gnevnii2
 ---gnevnii3
